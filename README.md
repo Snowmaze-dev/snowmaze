@@ -3,6 +3,7 @@ About me
 val snowmaze = developer {
     about {
         name = "Ilya"
+        platform = Android
     }
     links {
         telegram = "@snowmaze"
