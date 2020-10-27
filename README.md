@@ -1,6 +1,5 @@
-About me
 ```kotlin
-val snowmaze = developer {
+val snowmaze = developer { // about me
     about {
         name = "Ilya"
         platform = Android
