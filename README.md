@@ -5,7 +5,7 @@ val snowmaze = developer { // about me
         platform = Android
     }
     links {
-        telegram = "@snowmaze"
+        telegram = "t.me/snowmaze"
     }
 }
 ```
